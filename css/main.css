@@ -127,4 +127,8 @@ ul.features-list li:before {
 .features-section img {
   display: none;
 }
+
+.testimonials-section {
+  background: var(--primary-color);
+}
 /*# sourceMappingURL=main.css.map */
